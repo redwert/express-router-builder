@@ -1,5 +1,4 @@
-[![npm](https://img.shields.io/npm/v/:package.svg)](https://github.com/redwert/express-router-builder)
-
+[![npm](https://img.shields.io/npm/v/@redwert/express-router-builder.svg)](https://www.npmjs.com/package/express-router-builder)
 
 
 # express-router-builder

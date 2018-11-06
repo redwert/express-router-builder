@@ -1,0 +1,15 @@
+{
+  "name": "express-router-builder",
+  "version" : "1.0.0",
+  "description": "Builds express router depends on controller files",
+  "license": "MIT",
+  "repository": "redwert/express-router-builder",
+  "main": "index.js",
+  "keywords": [
+    "node.js",
+    "express",
+    "npm",
+    "package",
+    "redwert"
+  ]
+}
